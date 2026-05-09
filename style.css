@@ -1,0 +1,9 @@
+img{
+    size: 1000px;
+}
+body{
+    text-align: center;
+    font-family: 'fantasy';
+    background-color: aquamarine;
+    color: rgb(230, 96, 96);
+}
