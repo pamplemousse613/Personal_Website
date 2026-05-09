@@ -5,6 +5,6 @@ body{
     text-align: center;
     font-family: 'cursive';
     background-color: aquamarine;
-    background-image: image("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F-j3XsotC_BcAAAAj%2Fdinosaur-dancing-with-sunglass.gif&f=1&nofb=1&ipt=5746ca2f4123d301908bde6e681adfb747e3695089c959dacd3104692c8f5da9");
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F-j3XsotC_BcAAAAj%2Fdinosaur-dancing-with-sunglass.gif&f=1&nofb=1&ipt=5746ca2f4123d301908bde6e681adfb747e3695089c959dacd3104692c8f5da9');
     color: rgb(252, 87, 87);
 }
